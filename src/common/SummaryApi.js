@@ -1,4 +1,4 @@
-export const baseURL = 'http://localhost:5000'
+export const baseURL = 'https://house-of-ankara-server.onrender.com'
 
 const SummaryApi = {
     register: {
